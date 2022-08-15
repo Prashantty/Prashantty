@@ -1,4 +1,4 @@
-![MasterHead](https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A i'm Pursuing MCA currently.</h3>
 <img align="right" alt ="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
