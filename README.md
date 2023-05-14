@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prashantkr9991@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing][https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing])
+- 📄 Know about my experiences [CV 🧒]([https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
