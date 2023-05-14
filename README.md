@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **.Net , C# , Anguler**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashantty/Prashantty](https://github.com/Prashantty/Prashantty)
+- 👨‍💻 Some  of my work at [https://github.com/Prashantty/Prashantty](https://github.com/Prashantty/Prashantty)
 
 - 📫 How to reach me **prashantkr9991@gmail.com**
 
