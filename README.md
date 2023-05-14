@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PlayIT(Music Website)**
 
-- 🌱 I’m currently learning **Django , React**
+- 🌱 I’m currently learning **.Net , C# , Anguler**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashantty/Prashantty](https://github.com/Prashantty/Prashantty)
 
