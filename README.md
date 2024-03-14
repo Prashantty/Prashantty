@@ -6,17 +6,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantty&label=Profile%20views&color=0e75b6&style=flat" alt="prashantty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on a Project   **Travel Desk**
-
-- 🌱 I’m currently learning **.Net , C# , Anguler**
-
-- 👨‍💻 All of my projects are available at [Here 😉](https://github.com/Prashantty/Prashantty)
-- 👨‍💻 Some  of my work at [GitLab 👍😃](https://gitlab.com/Prashantktr)
-
-- 📫 How to reach me **prashantkr9991@gmail.com**
-
-- 📄 Know about my experiences [CV 🧒](https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing)
+<div style="display: flex;">
+    <div style="flex: 1; margin-right: 20px;">
+        <h3>🔭 Currently Working On</h3>
+        <ul>
+            <li>I'm currently working on Node.js, Azure, and DevOps</li>
+            <li>I'm currently learning React Native</li>
+            <li>All of my projects are available at <a href="https://github.com/Prashantty/Prashantty">Here 😉</a></li>
+            <li>Some of my work at <a href="https://gitlab.com/Prashantktr">GitLab 👍😃</a></li>
+            <li>How to reach me: prashantkr9991@gmail.com</li>
+            <li>Know about my experiences <a href="https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing">CV 🧒</a></li>
+        </ul>
+    </div>
+    <div style="flex: 1;">
+            <img src="![output-onlinegiftools](https://github.com/Prashantty/Prashantty/assets/95084475/a9248901-5822-4a96-abf5-3c46fe1179ed)
+" alt="Your GIF" width="100%">
+        </a>
+    </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
