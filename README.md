@@ -20,8 +20,6 @@
     </div>
     </div>
     <div style="flex: 1;">
-        ![image](https://github.com/Prashantty/deployTest.github.io/assets/95084475/b1f0256c-987c-4a59-87d0-329d2181433a)
-        ![output-onlinegiftools](https://github.com/Prashantty/Prashantty/assets/95084475/14c4b7a6-c65e-4f42-8727-d27164059365)
     </div>
 </div>
 ![output-onlinegiftools](https://github.com/Prashantty/Prashantty/assets/95084475/0e3bcee2-54f0-49f0-9857-6342726f48cc)
