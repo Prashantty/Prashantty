@@ -18,9 +18,10 @@
             <li>Know about my experiences <a href="https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing">CV 🧒</a></li>
         </ul>
     </div>
+    </div>
     <div style="flex: 1;">
-            <img src="![output-onlinegiftools](https://github.com/Prashantty/Prashantty/assets/95084475/a9248901-5822-4a96-abf5-3c46fe1179ed)
-" alt="Your GIF" width="100%">
+        <a href="[xyz.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Fman-work-laptop-business-computer-1835%2F&psig=AOvVaw2V0YUVSZuW2gp5TRYUc9dW&ust=1710498200599000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi3zK_G84QDFQAAAAAdAAAAABAE)">
+            <img src="your_gif_url_here" alt="Your GIF" width="100%">
         </a>
     </div>
 </div>
