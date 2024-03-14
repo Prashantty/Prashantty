@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 20px;">
-        <h3>🔭 Currently Working On</h3>
+        <h3>🔭 Current Status </h3>
         <ul>
             <li>I'm currently working on Node.js, Azure, and DevOps</li>
             <li>I'm currently learning React Native</li>
