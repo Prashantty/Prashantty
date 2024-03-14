@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center"> #Associate Software Engineer</h3>
+<h3 align="center"> Associate Software Engineer</h3>
 <img align="right" alt ="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantty&label=Profile%20views&color=0e75b6&style=flat" alt="prashantty" /> </p>
