@@ -1,38 +1,104 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center"> Associate Software Engineer</h3>
-<img align="right" alt ="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<div align="center">
+  <img src="./assets/header/coding-header.jpg" alt="header" width="800"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantty&label=Profile%20views&color=0e75b6&style=flat" alt="prashantty" /> </p>
+<h1 align="center">Hi <img src="./assets/icons/wave.gif" width="30px">, I'm Prashant</h1>
+<h3 align="center">Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<div align="right">
+  <img alt="Coding" width="400" src="./assets/gifs/coding-animation.gif">
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prashantty&label=Profile%20views&color=0e75b6&style=flat" alt="prashantty" />
+</p>
+
+<div align="center">
+  
+[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant-kumar-5943531b9)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:prashantkr9991@gmail.com)
+  
+</div>
+
+## 🚀 About Me
+
 <div style="display: flex;">
     <div style="flex: 1; margin-right: 20px;">
         <h3>🔭 Current Status </h3>
         <ul>
-            <li>I'm currently working on Node.js, Azure, and DevOps</li>
-            <li>I'm currently learning React Native</li>
-            <li>All of my projects are available at <a href="https://github.com/Prashantty/Prashantty">Here 😉</a></li>
-            <li>Some of my work at <a href="https://gitlab.com/Prashantktr">GitLab 👍😃</a></li>
-            <li>How to reach me: prashantkr9991@gmail.com</li>
-            <li>Know about my experiences <a href="https://drive.google.com/file/d/14MQI3Nf1WGTAoeVnO09K_jpQbRRBy-bZ/view?usp=sharing">CV 🧒</a></li>
+            <li>🌟 Developing and Researching the AI Services  </li>
+            <li>📱 Learning and Implementing the Local LLMs (Self hosted) </li>
+            <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty">GitHub Portfolio 😉</a></li>
+            <li>🔧 Additional work at <a href="https://gitlab.com/Prashantktr">GitLab 👍</a></li>
+            <li>📫 Reach me at: prashantkr9991@gmail.com</li>
+            <li>📄 Check my <a href="./Personal_Docs/Prashant_Resume.pdf">Resume 📝</a></li>
         </ul>
     </div>
-    </div>
     <div style="flex: 1;">
+        <img src="./assets/gifs/tech-stack.gif" alt="Tech Stack" width="400">
     </div>
 </div>
-![output-onlinegiftools](https://github.com/Prashantty/Prashantty/assets/95084475/0e3bcee2-54f0-49f0-9857-6342726f48cc)
+
+<div align="center">
+  <img src="./assets/gifs/coding-line.gif" width="100%">
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Fluent UI](https://img.shields.io/badge/-Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & Frameworks
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/-Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/-CosmosDB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### AI & ML
+![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/-Azure_AI_Search-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantty&show_icons=true&locale=en&layout=compact&theme=radical" alt="prashantty" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantty&theme=radical" alt="prashantty" />
+</div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://github.com/prashantty/prashantty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/prashantty/prashantty" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantty&show_icons=true&locale=en&layout=compact" alt="prashantty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantty&" alt="prashantty" /></p>
+<div align="center">
+    <p align="center">
+        <a href="https://prashantt-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Please_Visit_Here_To_Know_More-4B275F?style=for-the-badge" alt="Portfolio Link"/>
+        </a>
+    </p>
+  <img src="./assets/footer/coding-footer.gif" width="100%">
+</div>
