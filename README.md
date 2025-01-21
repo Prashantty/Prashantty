@@ -5,18 +5,12 @@
 <h1 align="center">Hi <img src="./assets/icons/wave.gif" width="30px">, I'm Prashant</h1>
 <h3 align="center">Developer</h3>
 
-
-<div align="right">
-  <img alt="Coding" width="400" src="./assets/gifs/coding-animation.gif">
-</div>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prashantty&label=Profile%20views&color=0e75b6&style=flat" alt="prashantty" />
 </p>
 
 <div align="center">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant-kumar-5943531b9)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:prashantkr9991@gmail.com)
   
@@ -24,22 +18,24 @@
 
 ## 🚀 About Me
 
-<div style="display: flex;">
-    <div style="flex: 1; margin-right: 20px;">
-        <h3>🔭 Current Status </h3>
-        <ul>
-            <li>🌟 Developing and Researching the AI Services  </li>
-            <li>📱 Learning and Implementing the Local LLMs (Self hosted) </li>
-            <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty">GitHub Portfolio 😉</a></li>
-            <li>🔧 Additional work at <a href="https://gitlab.com/Prashantktr">GitLab 👍</a></li>
-            <li>📫 Reach me at: prashantkr9991@gmail.com</li>
-            <li>📄 Check my <a href="./Personal_Docs/Prashant_Resume.pdf">Resume 📝</a></li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <img src="./assets/gifs/tech-stack.gif" alt="Tech Stack" width="400">
-    </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔭 Current Status </h3>
+      <ul>
+        <li>🌟 Developing and Researching the AI Services</li>
+        <li>📱 Learning and Implementing the Local LLMs (Self hosted)</li>
+        <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty">GitHub Portfolio 😉</a></li>
+        <li>🔧 Additional work at <a href="https://gitlab.com/Prashantktr">GitLab 👍</a></li>
+        <li>📫 Reach me at: prashantkr9991@gmail.com</li>
+        <li>📄 Check my <a href="./Personal_Docs/Prashant_Resume.pdf">Resume 📝</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="./assets/gifs/tech-stack.gif" alt="Tech Stack" width="100%">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="./assets/gifs/coding-line.gif" width="100%">
