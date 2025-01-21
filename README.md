@@ -25,10 +25,11 @@
       <ul>
         <li>🌟 Developing and Researching the AI Services</li>
         <li>📱 Learning and Implementing the Local LLMs (Self hosted)</li>
-        <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty">GitHub Portfolio 😉</a></li>
-        <li>🔧 Additional work at <a href="https://gitlab.com/Prashantktr">GitLab 👍</a></li>
-        <li>📫 Reach me at: prashantkr9991@gmail.com</li>
-        <li>📄 Check my <a href="./Personal_Docs/Prashant_Resume.pdf">Resume 📝</a></li>
+        <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty"></a> <a href="https://github.com/Prashantty/Prashantty"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="20" alt="GitHub"/></a></li>
+        <li>🔧 Additional work at <a href="https://gitlab.com/Prashantktr"></a> <a href="https://gitlab.com/Prashantktr"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" height="20" alt="GitLab"/></a></li>
+        <li>📫 Reach me at  <a href="mailto:prashantkr9991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" alt="Email Me"/></a></li>
+        <li>📄 Check my Resume  <a href="./Personal_Docs/Prashant_Resume.pdf">📝</a></li>
+        <li>🌐 Portfolio <a href="https://prashantt-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Portfolio-4B275F?style=flat&logo=vercel&logoColor=white" height="20" alt="Portfolio Link"/></a></li>
       </ul>
     </td>
     <td width="50%">
@@ -91,10 +92,6 @@
 
 
 <div align="center">
-    <p align="center">
-        <a href="https://prashantt-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Please_Visit_Here_To_Know_More-4B275F?style=for-the-badge" alt="Portfolio Link"/>
-        </a>
-    </p>
+ 
   <img src="./assets/footer/coding-footer.gif" width="100%">
 </div>
