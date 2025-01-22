@@ -25,7 +25,7 @@
       <ul>
         <li>🌟 Developing and Researching the AI Services</li>
         <li>📱 Learning and Implementing the Local LLMs (Self hosted)</li>
-        <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty"></a> <a href="https://github.com/Prashantty/Prashantty"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="20" alt="GitHub"/></a></li>
+        <li>💼 Projects available at <a href="https://github.com/Prashantty/Prashantty"></a> <a href="https://github.com/Prashantty?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="20" alt="GitHub"/></a></li>
         <li>🔧 Additional work at <a href="https://gitlab.com/Prashantktr"></a> <a href="https://gitlab.com/Prashantktr"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" height="20" alt="GitLab"/></a></li>
         <li>📫 Reach me at  <a href="mailto:prashantkr9991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" alt="Email Me"/></a></li>
         <li>📄 Check my Resume  <a href="./Personal_Docs/Prashant_Resume.pdf">📝</a></li>
